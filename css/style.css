@@ -144,12 +144,32 @@ input, button {
     /* line-height: 25px; */
 }
 
-.main_data7{
+/* .main_data7{
     padding: 20px 100px;
 }
 .main_data5{
     padding: 20px 100px;
 }
 .main_data6{
-    padding: 20px 100px;
+    padding: 20px 100px; */
+
+.footer_part{
+    background-color: rgb(57, 57, 57);
+    color: white;
+    padding: 60px 200px;
+    font-weight: 700;
+    overflow: hidden;
+}
+
+.icons{
+    width: 100px;
+    height: 200px;
+}
+.main_data8{
+    padding: 30px 75px;
+
+}
+.border1{
+    border: 2px solid white;
+    width: 22px;
 }
