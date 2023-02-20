@@ -4,7 +4,6 @@
 
 body {
     margin: 0px;
-
 }
 
 img {
@@ -16,9 +15,9 @@ h1, h2, h3, h4, h5, h6, p {
     padding: 0px;
 }
 
-/* #class{
+#class{
     overflow: hidden;
-} */
+}
 
 a{
    text-decoration: none;
@@ -118,7 +117,7 @@ input, button {
 .meaning2{
     line-height: 90px;
     text-align: justify;
-    margin-top: -100px;
+    margin-top: -105px;
 }
 .dote{
     color: rgb(255, 0, 157);
@@ -157,14 +156,17 @@ input, button {
     /* line-height: 25px; */
 }
 
-/* .main_data7{
-    padding: 20px 100px;
-}
+
 .main_data5{
-    padding: 20px 100px;
+    border-left: 2px solid rgb(219, 219, 219);
+    border-right: 2px solid rgb(219, 219, 219);
+    padding-left: 35px;
+    padding-right: 15px;
 }
 .main_data6{
-    padding: 20px 100px; */
+    padding-left: 35px;
+
+}
 
 .footer_part{
     background-color: rgb(57, 57, 57);
@@ -174,12 +176,11 @@ input, button {
     overflow: hidden;
 }
 
-.icons{
-    width: 100px;
-    height: 200px;
+.trophy{
+   font-size: 55px;
 }
-.main_data8{
-    padding: 30px 75px;
+.class1{
+    padding: 25px 80px;
 
 }
 .border1{
@@ -210,4 +211,10 @@ input, button {
 .createch{
     font-size: 12px;
     padding-top: 8px;
+}
+.pran{
+    border: 5px solid rgb(255, 0, 157);
+    width: 25px;
+    margin-top: -15px;
+    margin-left: 290px;
 }
