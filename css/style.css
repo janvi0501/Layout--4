@@ -171,5 +171,30 @@ input, button {
 }
 .border1{
     border: 2px solid white;
-    width: 22px;
+    width: 35px;
+}
+.dote1{
+    border: 3px solid white;
+    width: 25px;
+}
+.dote2{
+    border: 3px solid white;
+    width: 15px;
+    margin-top: 3px;
+}
+.dote3{
+    border: 3px solid white;
+    width: 5px;
+    margin-top: 3px;
+}
+.ux{
+    font-size: 25px;
+    line-height: 20px;
+}
+.a_bx{
+    font-size: 20px;
+}
+.createch{
+    font-size: 12px;
+    padding-top: 8px;
 }
