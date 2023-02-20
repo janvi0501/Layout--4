@@ -37,13 +37,9 @@ input, button {
     outline: none;
 }
 
-.heading1{
-    /* background-color: rgb(59, 59, 59); */
-}
-
 .heading2{
-    padding: 12px 100px;
-    position: inherit;
+    padding: 30px 150px;
+    /* position: inherit; */
 }
 
 .heading3{
@@ -62,25 +58,26 @@ input, button {
     font-size: 25px;
 }
 .content2{
-    font-size: 39px;
+    font-size: 20px;
     color: rgb(130, 130, 130);
     /* position: absolute; */
 }
 
 .meaning{
-    position: absolute;
+    /* position: absolute; */
 }
 .content3{
-    font-size: 20px;
+    font-size: 15px;
     color: rgb(130, 130, 130);
+    line-height: 25px;
 }
 
 .main_data1{
-    background-color: rgba(80, 138, 224, 0.50);
+    background-color: rgba(34, 113, 232, 0.5);
     padding: 80px 100px;
 }
 .main_data2{
-    background-color: rgba(233, 75, 162, 0.5);
+    background-color: rgba(255, 3, 141, 0.5);
     height: 200px;
 }
 
@@ -102,10 +99,6 @@ input, button {
 .data4{
     color: white;
     font-size: 100px;
-    /* padding-right: 200px;
-    line-height: 90px;
-    margin-top: -10%;
-    text-align: justify; */
 }
 .data5{
     color: white;
@@ -129,7 +122,6 @@ input, button {
     padding-left: 25px;
     font-size: 30px;
     line-height: 40px;
-    /* height: 80px; */
 }
 .section_content2{
     padding: 40px 80px;
@@ -153,7 +145,6 @@ input, button {
 }
 .lorem{
     font-size: 15px;
-    /* line-height: 25px; */
 }
 
 
@@ -186,6 +177,7 @@ input, button {
 .border1{
     border: 2px solid white;
     width: 35px;
+    margin-left: 20px;
 }
 .dote1{
     border: 3px solid white;
@@ -204,6 +196,7 @@ input, button {
 .ux{
     font-size: 25px;
     line-height: 20px;
+    padding-left: 20px;
 }
 .a_bx{
     font-size: 20px;
@@ -217,4 +210,7 @@ input, button {
     width: 25px;
     margin-top: -15px;
     margin-left: 290px;
+}
+.allcontent{
+    border: 5px solid rgb(182, 182, 182);
 }
